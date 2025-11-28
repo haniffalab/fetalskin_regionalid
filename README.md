@@ -1,6 +1,6 @@
 # Project fetalskin_regionalid 
 
-github repo [git@github.com:haniffalab/fetalskin_regionalid.git]
+[github repo] (git@github.com:haniffalab/fetalskin_regionalid.git)
 
 # New users
 ```
