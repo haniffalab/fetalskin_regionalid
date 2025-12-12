@@ -2,6 +2,9 @@
 
 [github repo] (git@github.com:haniffalab/fetalskin_regionalid.git)
 
+This project focuses on charaterising prenatal skin patterning across different anatomical sites 
+
+
 # New users
 ```
 git init
